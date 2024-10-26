@@ -67,3 +67,8 @@ This book is available in several versions in different programming languages:
  * [Programming Basics with JavaScript (Bulgarian)](https://js-book.softuni.bg)
  * [Programming Basics with Python (Bulgarian)](https://python-book.softuni.bg)
  * [Programming Basics with C++ (Bulgarian)](https://cpp-book.softuni.bg)
+
+Languages used for this project:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maraya20&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maraya20&layout=donut&card_width=300&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
